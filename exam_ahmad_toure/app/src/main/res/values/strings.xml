@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Rev</string>
+    <string name="email_lab_value">Email</string>
+    <string name="password_lab_value">Password</string>
+    <string name="joueur_btn_value">Joueur</string>
+    <string name="admin_btn_value">Admin</string>
+    <string name="log_btn_value">DEMARRER</string>
+    <string name="verif_btn_val">Verifier</string>
+    <string name="quit_btn_val">Quitter</string>
+    <string name="login_lab_val">"Utilisateur: "</string>
+    <string name="count_view_btn_value">Count Game</string>
+    <string name="guess_view_btn_value">Guess Game</string>
+    <string name="choice_title_value">Choice Your Game</string>
+    <string name="count_title_lab_value">Compteur de Mammifère</string>
+    <string name="lion_button_value">Lions</string>
+    <string name="elephants_button_value">Elephants</string>
+    <string name="count_btn_value">Count</string>
+    <string name="lions_count_value">"Nombre de Lions: "</string>
+    <string name="elephants_count_value">"Nombre d'Elephants: "</string>
+    <string name="user_lab_val">"Utilisateur: "</string>
+    <string name="rd_btn_value">"Random button "</string>
+    <string name="rd_title_lab">RANDOM PAGE : CALL, ALARM or SEND MESSAGE\n</string>
+</resources>
